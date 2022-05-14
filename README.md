@@ -29,5 +29,6 @@ Compile & link, then run in terminal.
 ## Auther  
  Ryota Murai  
  https://rmurai.com/  
-## Lisence  
- 'rmuraix/CPractice' is under [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/)
+## Licence  
+ 'rmuraix/CPractice' is under [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/)  
+ ![Licence:MPL2.0](https://img.shields.io/github/license/rmuraix/CPractice)  
