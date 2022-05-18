@@ -1,7 +1,7 @@
 # CPractice  
 Practice C lang.  
 There are various simple programs.  
-## What's in here?  
+## What's these?  
 ### [/1/](/1/)  
  - **ex1_1.c** ... printf
  - **ex1_2.c** ... printf with variable
