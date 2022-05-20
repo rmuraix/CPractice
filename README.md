@@ -1,7 +1,7 @@
 # CPractice  
 Practice C lang.  
 There are various simple programs.  
-## What's in here?  
+## What's these?  
 ### [/1/](/1/)  
  - **ex1_1.c** ... printf
  - **ex1_2.c** ... printf with variable
@@ -26,9 +26,12 @@ There are various simple programs.
 
 ## Usage  
 Compile & link, then run in terminal.
+```bash
+start ex1_1.exe
+```
 ## Auther  
  Ryota Murai  
  https://rmurai.com/  
-## Licence  
+## License  
  'rmuraix/CPractice' is under [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/)  
- ![Licence:MPL2.0](https://img.shields.io/github/license/rmuraix/CPractice)  
+ ![License:MPL2.0](https://img.shields.io/github/license/rmuraix/CPractice)  
