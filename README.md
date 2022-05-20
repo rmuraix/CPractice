@@ -26,6 +26,9 @@ There are various simple programs.
 
 ## Usage  
 Compile & link, then run in terminal.
+```bash
+start ex1_1.exe
+```
 ## Auther  
  Ryota Murai  
  https://rmurai.com/  
