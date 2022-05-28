@@ -12,7 +12,8 @@ There are various simple programs.
 - **real number type**
 ### [/5/](/5/)  
 - **if statement**
-
+### [/6/](/6/)  
+- **if-else statement**
 ## Usage  
 Compile & link, then run in terminal.
 ```bash
