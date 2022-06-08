@@ -23,6 +23,8 @@ Compile & link, then run in terminal.
 ```bash
 start ex1_1.exe
 ```
+## Contributing  
+Read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).  
 ## Auther  
  Ryota Murai  
  https://rmurai.com/  
