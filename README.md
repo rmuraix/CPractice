@@ -18,6 +18,8 @@ There are various simple programs.
 - **if-else statement**
 ### [/7/](/7/)  
 - **while/Do-while statement**
+### [/8/](/8/)  
+- **if while/Do-while statement**
 ## Usage  
 Compile & link, then run in terminal.
 ```bash
