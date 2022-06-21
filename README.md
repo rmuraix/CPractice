@@ -1,6 +1,6 @@
 # CPractice  
 ![License:MPL2.0](https://img.shields.io/github/license/rmuraix/CPractice)
-![issues](https://img.shields.io/github/issues/rmuraix/CPractice)  
+![issues](https://img.shields.io/github/issues/rmuraix/CPractice) [![CodeFactor](https://www.codefactor.io/repository/github/rmuraix/cpractice/badge)](https://www.codefactor.io/repository/github/rmuraix/cpractice)  
 Practice C lang.  
 There are various simple programs.  
 ## What's these?  
