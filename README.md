@@ -22,6 +22,9 @@ There are various simple programs.
 - **if while/Do-while statement**
 ### [9](/9/)  
 - **for statement**
+### [10](/10/)  
+- **for statement**
+- **Integer Formatting**
 ## Usage  
 Compile & link, then run in terminal.
 ```bash
