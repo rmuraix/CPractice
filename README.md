@@ -24,7 +24,9 @@ There are various simple programs.
 - **for statement**
 ### [10](/10/)  
 - **for statement**
-- **Integer Formatting**
+- **Integer Formatting**  
+### [11](/11/)  
+- **Array**  
 ## Usage  
 Compile & link, then run in terminal.
 ```bash
