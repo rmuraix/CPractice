@@ -4,23 +4,23 @@
 Practice C lang.  
 There are various simple programs.  
 ## What's these?  
-### [1](/1/)  
+### [01](/01/)  
 - **printf**  
-### [2](/2/)  
+### [02](/02/)  
 - **keyboard input**  
-### [3](/3/)  
+### [03](/03/)  
 - **real number type**
-### [4](/4/)  
+### [04](/04/)  
 - **real number type**
-### [5](/5/)  
+### [05](/05/)  
 - **if statement**
-### [6](/6/)  
+### [06](/06/)  
 - **if-else statement**
-### [7](/7/)  
+### [07](/07/)  
 - **while/Do-while statement**
-### [8](/8/)  
+### [08](/08/)  
 - **if while/Do-while statement**
-### [9](/9/)  
+### [09](/09/)  
 - **for statement**
 ### [10](/10/)  
 - **for statement**
