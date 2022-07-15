@@ -26,7 +26,11 @@ There are various simple programs.
 - **for statement**
 - **Integer Formatting**  
 ### [11](/11/)  
-- **Array**  
+- **Array** 
+### [12](/12/)  
+- **Structure**
+### [13](/13/)  
+- **mini Test**   
 ## Usage  
 Compile & link, then run in terminal.
 ```bash
